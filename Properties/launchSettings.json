@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "demoBlazeAutomation_JAVS": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
